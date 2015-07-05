@@ -1,6 +1,10 @@
 # RadioPlayerService
 Android service library which uses AAC Player. Ready to use Radio Player Service. (Android Background Player Service)
 
+## Features ##
+- Play and stop live radio streams on background.
+- Handle incoming and outgoing calls.
+
 # Usage #
 
 ## Import .aar library ##
@@ -103,6 +107,7 @@ Demo project will help you to understand implementation.
 ## TODO LIST##
 
 * [ ] Create Notification on Background Service.
+* [ ] Decode and Buffer size setter methods
 
 
 
