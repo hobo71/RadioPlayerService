@@ -109,7 +109,9 @@ Demo project will help you to understand implementation.
 * [ ] Create Notification on Background Service.
 * [ ] Decode and Buffer size setter methods
 
+## Libraries Used ##
 
+[AAC Decoder Library](https://github.com/vbartacek/aacdecoder-android)
 
 
 
